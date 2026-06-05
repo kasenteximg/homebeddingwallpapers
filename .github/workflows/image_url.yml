@@ -8,16 +8,17 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true' # Silences the Node.js 20 deprecation warning
+
 jobs:
   update-json:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. Updated to v6 to clear Node 20 deprecation warnings
     - name: Checkout Code
-      uses: actions/checkout@v6
+      uses: actions/checkout@v4
 
-    # 2. Updated to use the latest python setup action
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -25,11 +26,15 @@ jobs:
 
     - name: Run JSON Generator Script
       run: |
-        # Ensure we are in the root directory and check if the script exists
+        echo "=== Checking current directory ==="
+        pwd
+        ls -la
+        echo "=================================="
+        
         if [ -f "generate_colors.py" ]; then
           python generate_colors.py
         else
-          echo "Error: generate_colors.py not found in the root directory!"
+          echo "❌ ERROR: generate_colors.py is missing from the root folder!"
           exit 1
         fi
 
