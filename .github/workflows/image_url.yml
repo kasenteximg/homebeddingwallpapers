@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true' # Silences the Node.js 20 deprecation warning
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 jobs:
   update-json:
@@ -26,15 +26,13 @@ jobs:
 
     - name: Run JSON Generator Script
       run: |
-        echo "=== Checking current directory ==="
-        pwd
-        ls -la
-        echo "=================================="
-        
-        if [ -f "generate_colors.py" ]; then
-          python generate_colors.py
+        # We check for image_url.py here instead
+        if [ -f "image_url.py" ]; then
+          python image_url.py
+        elif [ -f "image_url" ]; then
+          python image_url
         else
-          echo "❌ ERROR: generate_colors.py is missing from the root folder!"
+          echo "❌ ERROR: Could not find your python file in the root folder!"
           exit 1
         fi
 
