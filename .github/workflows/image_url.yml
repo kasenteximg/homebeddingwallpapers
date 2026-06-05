@@ -1,0 +1,42 @@
+name: Auto Update Colors JSON
+
+on:
+  push:
+    paths:
+      - 'colors/**' # This workflow ONLY runs if files inside the colors folder change
+
+# Give the workflow permission to write/commit changes back to your repository
+permissions:
+  contents: write
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run JSON Generator Script
+      run: python generate_colors.py
+
+    - name: Commit and Push colors.json
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Add the file to git stage
+        git add colors.json
+        
+        # Only commit and push if the colors.json actually changed
+        if ! git diff-index --quiet HEAD; then
+          git commit -m "chore: auto-update colors.json [skip ci]"
+          git push
+        else
+          echo "No changes detected in colors.json"
+        fi
