@@ -1,33 +1,156 @@
 {
-    "blue": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/1810_BL_01_GIT.jpg"
-    ],
-    "green": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/1810_GN_01_GIT.jpg"
-    ],
     "yellow": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/yellow/1810_YL_01_GIT.jpg"
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/yellow/yellow_git_01.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/yellow/yellow_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/yellow/yellow_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/yellow/yellow_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/yellow/yellow_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/yellow/yellow_git_02.jpg"
     ],
     "orange": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/orange/1810_RS_01_GIT.jpg"
-    ],
-    "white": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/1810_NV_01_GIT.jpg"
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/orange/orange_git_01.jpg"
     ],
     "red": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/1810_NV_01_GIT.jpg"
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_07.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_10.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_11.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_01.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/red/red_git_09.jpg"
     ],
     "black": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/black/1810_BK_01_GIT.jpg"
-    ],
-    "grey": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/1810_GY_01_GIT.jpg",
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/1810_GY_02_GIT.jpg"
-    ],
-    "pink": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/1810_PK_01_GIT.jpg"
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/black/black_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/black/black_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/black/black_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/black/black_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/black/black_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/black/black_git_01.jpg"
     ],
     "brown": [
-        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/1810_BN_01_GIT.jpg"
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_14.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_25.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_12.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_13.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_16.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_24.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_01.JPG",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_21.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_26.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_07.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_11.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_10.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_22.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_15.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_20.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_23.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_09.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_19.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_18.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/brown/brown_git_17.jpg"
+    ],
+    "blue": [
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_14.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_12.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_07.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_18.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_17.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_19.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_09.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_13.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_16.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_01.JPG",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_11.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_10.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/blue/blue_git_15.jpg"
+    ],
+    "grey": [
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_18.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_12.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_13.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_07.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_14.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_17.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_15.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_11.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_09.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_10.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_01.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_16.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/grey/grey_git_02.jpg"
+    ],
+    "purple": [
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_10.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_11.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_09.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_13.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_01.JPG",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_07.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_12.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/purple/purple_git_14.jpg"
+    ],
+    "white": [
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_11.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_07.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_12.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_01.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_09.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_10.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/white/white_git_13.jpg"
+    ],
+    "pink": [
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_01.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_07.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/pink/pink_git_09.jpg"
+    ],
+    "green": [
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_04.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_03.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_02.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_06.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_01.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_08.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_05.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_09.jpg",
+        "https://raw.githubusercontent.com/kasenteximg/homebeddingwallpapers/main/colors/green/green_git_07.jpg"
     ]
 }
