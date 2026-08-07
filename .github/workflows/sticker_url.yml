@@ -1,0 +1,50 @@
+name: Auto Update Stickers JSON
+
+on:
+  push:
+    paths:
+      - 'stickers/**'
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Run JSON Generator Script
+      run: |
+        # We check for sticker_url.py here instead
+        if [ -f "sticker_url.py" ]; then
+          python sticker_url.py
+        elif [ -f "sticker_url" ]; then
+          python sticker_url
+        else
+          echo "❌ ERROR: Could not find your python file in the root folder!"
+          exit 1
+        fi
+
+    - name: Commit and Push stickers.json
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        git add stickers.json
+        if ! git diff-index --quiet HEAD; then
+          git commit -m "chore: auto-update stickers.json [skip ci]"
+          git push
+        else
+          echo "No changes detected in stickers.json"
+        fi
